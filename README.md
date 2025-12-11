@@ -4,14 +4,14 @@ This project showcases an interactive Excel dashboard built to analyze Adidas US
 
 # 📊 Project Overview
 The dashboard is designed to help business teams and stakeholders quickly understand:
-Overall total sales and total units sold
-Revenue trends over time
-Top performing product categories
-Sales by region and state-level insights
-Retailer-wise sales performance
-Profitability trends
-Key metrics shown through dynamic charts and slicers
-This dashboard helps improve decision-making related to marketing, inventory, and sales strategy.
+* Overall total sales and total units sold
+* Revenue trends over time
+* Top performing product categories
+* Sales by region and state-level insights
+* Retailer-wise sales performance
+* Profitability trends
+* Key metrics shown through dynamic charts and slicers
+* This dashboard helps improve decision-making related to marketing, inventory, and sales strategy.
 
 # Key Insights -->
 Which regions generate the highest revenue
